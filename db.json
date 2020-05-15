@@ -2,6 +2,7 @@
     "users": [
       {
         "id": 1,
+        "userType": "EmailUser",
         "email": "zdwym1997@yahoo.com",
         "password": "2670586zxc"
       }
